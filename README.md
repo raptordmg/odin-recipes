@@ -1,0 +1,1 @@
+This is the recipes project from The Odin Project web development course and this project is to test my basic html skills and my use of git
